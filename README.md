@@ -1,5 +1,7 @@
 # Group-Spammers-Detection
 This project deal with Arabic text which is written in the social media. 
+Group spamming detection is of two main categories. The first category is a group of spammers who works together to promote a target entity or to ruin the reputation of another. Here the individuals in the group may or may not know each other. The second category is a single person who registers with multiple identities and post spams using these multiple identities. This is called sock puppetting
+This type of social media spamming is the most dengerous type of spamming
 It has four main steps which are: crawling, preprocessing, spamming activities detection,  and Individual members’ behaviors scanning.
 It is considered a search engine It uses Nutch web crawler. 
 It is integrated with Solr to provide indexing and searching capabilities to enhance the performance. 
